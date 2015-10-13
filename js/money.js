@@ -1,0 +1,1 @@
+var bank_total = 200;
