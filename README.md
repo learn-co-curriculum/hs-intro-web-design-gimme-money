@@ -15,3 +15,11 @@ Using the `prompt` function, first ask the user if they want to make a deposit o
 Your code should then add or detract from the total, and use the `alert` function to display the new total to the user.
 
 You will need to use if-statements to control the flow of your program. Remember, you want different actions to take place if they're depositing or withdrawing money.
+
+Make sure you set up a default state if a user enters anything other than "deposit" or "withdraw".
+
+**BONUS:**
+
++ What happens if a user enters "DEPOSIT" or "wItHdRaW". Is there a way to normalize the data on the backend so that any capitalization variation will work?
+
++ What if a user wanted to make a deposit and then immediately a withdraw? Is there a way to keep the user in the loop until they say they're done with the ATM?
