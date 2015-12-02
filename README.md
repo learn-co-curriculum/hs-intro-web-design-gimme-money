@@ -23,3 +23,4 @@ Make sure you set up a default state if a user enters anything other than "depos
 + What happens if a user enters "DEPOSIT" or "wItHdRaW". Is there a way to normalize the data on the backend so that any capitalization variation will work?
 
 + What if a user wanted to make a deposit and then immediately a withdraw? Is there a way to keep the user in the loop until they say they're done with the ATM?
+<a href='https://learn.co/lessons/hs-intro-web-design-gimme-money' data-visibility='hidden'>View this lesson on Learn.co</a>
